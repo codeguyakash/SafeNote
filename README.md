@@ -1,5 +1,5 @@
 ## Safe Notes
-## Safe Notes Application: https://codeguyakash.github.io/SafeNotes/.
+## Safe Notes Application: https://codeguyakash.github.io/SafeNote/.
 
 
 
